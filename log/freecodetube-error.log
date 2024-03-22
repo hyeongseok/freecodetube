@@ -1,0 +1,5 @@
+192.168.1.5 - - [22/Mar/2024:23:05:45 +0900] "GET / HTTP/1.1" 200 4629 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+192.168.1.5 - - [22/Mar/2024:23:05:45 +0900] "GET /assets/18088806/dist/css/bootstrap.css HTTP/1.1" 304 0 "http://freecodetube.test/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+192.168.1.5 - - [22/Mar/2024:23:05:45 +0900] "GET /assets/45393b9/jquery.js HTTP/1.1" 304 0 "http://freecodetube.test/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+192.168.1.5 - - [22/Mar/2024:23:05:45 +0900] "GET /assets/181640e2/yii.js HTTP/1.1" 304 0 "http://freecodetube.test/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+192.168.1.5 - - [22/Mar/2024:23:05:45 +0900] "GET /assets/18088806/dist/js/bootstrap.bundle.js HTTP/1.1" 304 0 "http://freecodetube.test/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
